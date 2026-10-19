@@ -6,6 +6,7 @@
 [ext_resource type="PackedScene" uid="uid://by6xhdbbg5kol" path="res://scenes/coin.tscn" id="4_lbhrr"]
 [ext_resource type="PackedScene" uid="uid://57rnja688x0j" path="res://scenes/killzone.tscn" id="5_iywne"]
 [ext_resource type="PackedScene" uid="uid://cobfo5lkorgdu" path="res://scenes/slime_enemy.tscn" id="6_p57ef"]
+[ext_resource type="FontFile" uid="uid://4apcrehvl8m1" path="res://assets/fonts/PixelOperator8.ttf" id="7_u5sy4"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_lnu2h"]
 texture = ExtResource("2_yqjtg")
@@ -295,3 +296,33 @@ autoplay = &"move"
 
 [node name="slime enemy" parent="." unique_id=194993344 instance=ExtResource("6_p57ef")]
 position = Vector2(497, 64)
+
+[node name="Label" type="Label" parent="." unique_id=970705681]
+offset_left = -156.0
+offset_top = 66.0
+offset_right = -19.0
+offset_bottom = 85.0
+theme_override_colors/font_color = Color(0.011764706, 0.14901961, 0.34901962, 1)
+theme_override_fonts/font = ExtResource("7_u5sy4")
+theme_override_font_sizes/font_size = 8
+text = "Espacio para saltar"
+
+[node name="Label2" type="Label" parent="." unique_id=479703098]
+offset_left = 343.0
+offset_top = 71.0
+offset_right = 480.0
+offset_bottom = 90.0
+theme_override_colors/font_color = Color(0.011764706, 0.14901961, 0.34901962, 1)
+theme_override_fonts/font = ExtResource("7_u5sy4")
+theme_override_font_sizes/font_size = 8
+text = "Caer duele..."
+
+[node name="Label3" type="Label" parent="." unique_id=1142387655]
+offset_left = 718.0
+offset_top = -62.0
+offset_right = 855.0
+offset_bottom = -43.0
+theme_override_colors/font_color = Color(0.09803922, 0.3137255, 0.7529412, 1)
+theme_override_fonts/font = ExtResource("7_u5sy4")
+theme_override_font_sizes/font_size = 8
+text = "Casi en el final..."
