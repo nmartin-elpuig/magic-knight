@@ -16,7 +16,7 @@ Evita a los enemigos: Esquiva a los enemigos y las zonas peligrosas para sobrevi
 
 Completa el nivel: Llega hasta el final y demuestra tus habilidades como jugador.
 
-⌨️ Controles
+ Controles
 
 
 Moverse a la izquierda
