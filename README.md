@@ -1,10 +1,10 @@
-📖 Descripción
+Descripción
 
 Este es un videojuego de plataformas en 2D desarrollado con Godot Engine. El proyecto se ha creado siguiendo el tutorial de iniciación a Godot de Brackeys, con el objetivo de aprender los fundamentos del desarrollo de videojuegos.
 
 Controla a tu personaje, recorre el nivel, salta entre plataformas, recoge monedas y evita a los enemigos y obstáculos que encuentres por el camino. ¡Ten cuidado de no caer ni tocar a los enemigos!
 
-🕹️ ¿Cómo se juega?
+ ¿Cómo se juega?
 
 Muévete por el escenario: Explora el nivel y encuentra el camino hasta el final.
 
@@ -31,13 +31,13 @@ Saltar
 
 Espacio
 
-🛠️ Tecnologías utilizadas
+ Tecnologías utilizadas
 
 Godot Engine: Motor utilizado para desarrollar el videojuego.
 
 GDScript: Lenguaje de programación utilizado para implementar las mecánicas del juego.
 
-🎯 Objetivo del proyecto
+ Objetivo del proyecto
 
 Este proyecto tiene como objetivo aprender y practicar los conceptos básicos del desarrollo de videojuegos en 2D, incluyendo:
 
@@ -53,7 +53,7 @@ Enemigos y obstáculos.
 
 Mecánicas básicas de juego.
 
-🙌 Créditos
+ Créditos
 
 Tutorial original: Brackeys – Tutorial de Godot.
 
